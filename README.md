@@ -1,4 +1,4 @@
-# Transactonal-time-bucket
+# Transactional-time-bucket
 This project is about detecting ATM users transactions timing pattern. I have used a dummy csv file containing transactional details of various users. The program would divide the timing into four time buckets, namely; frequent transaction timing, moderate transaction timing, least transaction timing and non-transactional timing. Once the system gathers enough transactional timing from a user, next time when the user swipes his card, the system will determine what transactional time bucket does the present transaction falls in. 
 The timings mentioned in the screenshots are in 24 hrs format. 
 
